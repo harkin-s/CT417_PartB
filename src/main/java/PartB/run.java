@@ -14,7 +14,7 @@ import Student.Module;
  *
  * @author Sean
  */
-public class Main {
+public class run {
     
     public static void main(String[] args){
          
