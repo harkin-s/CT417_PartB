@@ -3,13 +3,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.sharkin104</groupId>
     <artifactId>CT417_PartB</artifactId>
-    <version>Tag</version>
+    <version>master</version>
     <packaging>jar</packaging>
    <dependencies>
        <dependency>
 	    <groupId>com.github.sharkin104</groupId>
 	    <artifactId>CT417</artifactId>
-	    <version>Tag</version>
+	    <version>master</version>
           <type>jar</type>
        </dependency>
        <dependency>
