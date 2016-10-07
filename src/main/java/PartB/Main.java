@@ -49,7 +49,7 @@ public class Main {
         for(int i = 0 ; ECE.getModules().length > i; i++ ){
             for(int a = 0 ; eMod.length>a;a++){
                 Student[] st =  eMod[a].getStudents();
-                for(int e =0; eMod[a].getStudents().length>e ;e++){
+                for(int e =0; eMod[a].getStudents().length>e ; e++){
                     System.out.println("Student Name:"+ st[e].getName() + " Module :" + eMod[a].getmName() + " Course:" + ECE.getCourse());
                 }
             }
@@ -59,7 +59,7 @@ public class Main {
         for(int i = 0 ; CS.getModules().length > i; i++ ){
             for(int a = 0 ; cMod.length>a;a++){
                 Student[] ct =  cMod[a].getStudents();
-                for(int e =0; cMod[a].getStudents().length>e ;e++){
+                for(int e =0; cMod[a].getStudents().length>e ; e++){
                     System.out.println("Student Name:"+ ct[e].getName() + " Module :" + eMod[a].getmName() + " Course:" + ECE.getCourse());
                 }
             }
