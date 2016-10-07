@@ -10,8 +10,7 @@
 	    <groupId>com.github.sharkin104</groupId>
 	    <artifactId>CT417</artifactId>
 	    <version>master</version>
-          <type>jar</type>
-       </dependency>
+	</dependency>
        <dependency>
             <groupId>joda-time</groupId>
             <artifactId>joda-time</artifactId>
